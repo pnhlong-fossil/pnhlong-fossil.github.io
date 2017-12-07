@@ -1,0 +1,285 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 15,
+      "symbol": "SDKForPartnerDeviceState.disconnected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 16,
+      "symbol": "SDKForPartnerDeviceState.connecting",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 17,
+      "symbol": "SDKForPartnerDeviceState.connected",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 18,
+      "symbol": "SDKForPartnerDeviceState.disconnecting",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 36,
+      "symbol": "MFDeviceList.MFShine",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 37,
+      "symbol": "MFDeviceList.MFShine2",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 38,
+      "symbol": "MFDeviceList.MFFlash",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 39,
+      "symbol": "MFDeviceList.MFRay",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 40,
+      "symbol": "MFDeviceList.MFFlare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 41,
+      "symbol": "MFDeviceList.Unknow",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 90,
+      "symbol": "MFDeviceConfiguration.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/DataClasses.swift",
+      "line": 158,
+      "symbol": "MFSyncOption.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/Logger.swift",
+      "line": 38,
+      "symbol": "LoggerMode",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/Logger.swift",
+      "line": 39,
+      "symbol": "LoggerMode.console",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/Logger.swift",
+      "line": 40,
+      "symbol": "LoggerMode.file",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/Logger.swift",
+      "line": 41,
+      "symbol": "LoggerMode.off",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 26,
+      "symbol": "SDKForPartnerErrorCode.licenceErrorStart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 27,
+      "symbol": "SDKForPartnerErrorCode.licenseIsInvalid",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 28,
+      "symbol": "SDKForPartnerErrorCode.licenseExpired",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 29,
+      "symbol": "SDKForPartnerErrorCode.invalidAppID",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 30,
+      "symbol": "SDKForPartnerErrorCode.noSupporedDevices",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 31,
+      "symbol": "SDKForPartnerErrorCode.licenceErrorEnd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 32,
+      "symbol": "SDKForPartnerErrorCode.processAppRequestStart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 33,
+      "symbol": "SDKForPartnerErrorCode.processAppRequestFailDueToInvalidLicense",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 34,
+      "symbol": "SDKForPartnerErrorCode.noBusinessServiceAvailable",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 35,
+      "symbol": "SDKForPartnerErrorCode.canNotConvertAServiceToOperation",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 36,
+      "symbol": "SDKForPartnerErrorCode.bluetoothOff",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 37,
+      "symbol": "SDKForPartnerErrorCode.deviceIsBusy",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 38,
+      "symbol": "SDKForPartnerErrorCode.parseSyncDataFail",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 39,
+      "symbol": "SDKForPartnerErrorCode.processAppRequestEnd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 40,
+      "symbol": "SDKForPartnerErrorCode.processBusinessStart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 41,
+      "symbol": "SDKForPartnerErrorCode.userCancelPair",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 43,
+      "symbol": "SDKForPartnerErrorCode.connectingError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 44,
+      "symbol": "SDKForPartnerErrorCode.timeoutError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 45,
+      "symbol": "SDKForPartnerErrorCode.dropConnectionError",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 46,
+      "symbol": "SDKForPartnerErrorCode.notReadyToRunPrepare",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 47,
+      "symbol": "SDKForPartnerErrorCode.cannotSetFastConnection",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 48,
+      "symbol": "SDKForPartnerErrorCode.processBusinessEnd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 49,
+      "symbol": "SDKForPartnerErrorCode.fromSDKStart",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios/SDKPartner/MFError.swift",
+      "line": 50,
+      "symbol": "SDKForPartnerErrorCode.fromSDKEnd",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/pnhlong/Projects/iOS/misfit-device-sdk-partner-ios"
+}

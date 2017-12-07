@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>MSLParser Class Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Class/MSLParser" class="dashAnchor"></a>
+    <a title="MSLParser Class Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (64% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        MSLParser Class Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/MFCentral.html">MFCentral</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MFDeviceConfiguration.html">MFDeviceConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:10SDKPartner7MFFlareC">MFFlare</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MFFlash.html">MFFlash</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MFPeripheral.html">MFPeripheral</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:10SDKPartner5MFRayC">MFRay</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:10SDKPartner7MFShineC">MFShine</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes.html#/s:10SDKPartner8MFShine2C">MFShine2</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MFSyncOption.html">MFSyncOption</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MSLParser.html">MSLParser</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Global Variables.html">Global Variables</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Global Variables.html#/s:10SDKPartner22SDKForPartnerErrorLists10DictionaryVyAA0bcD4CodeOADySSypGGv">SDKForPartnerErrorList</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Enums.html">Enumerations</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Enums/ConfigurationKey.html">ConfigurationKey</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/LoggerMode.html">LoggerMode</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/MFDeviceList.html">MFDeviceList</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/SDKForPartnerDeviceState.html">SDKForPartnerDeviceState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Enums/SDKForPartnerErrorCode.html">SDKForPartnerErrorCode</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Structs.html">Structures</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Structs/SyncData.html">SyncData</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Typealiases.html">Type Aliases</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner20ActivationCompletiona">ActivationCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner20ConnectionCompletiona">ConnectionCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner27DataTransferProgressHandlera">DataTransferProgressHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner19GetConfigCompletiona">GetConfigCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner12MFClockStatea">MFClockState</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner19MFTimeConfigurationa">MFTimeConfiguration</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner13OTACompletiona">OTACompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner22RetrieveDeviceCallbacka">RetrieveDeviceCallback</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner12ScanCallbacka">ScanCallback</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner18SyncDataCompletiona">SyncDataCompletion</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner15SyncDataHandlera">SyncDataHandler</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Typealiases.html#/s:10SDKPartner22UpdateConfigCompletiona">UpdateConfigCompletion</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>MSLParser</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight"><code><span class="kd">public</span> <span class="kd">final</span> <span class="kd">class</span> <span class="kt">MSLParser</span></code></pre>
+
+                </div>
+              </div>
+            <p>Parse data from devices</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:10SDKPartner9MSLParserC22parseSyncActivityFilesAA0D4DataVSo15MFSProfileShineC11userProfile_Say10Foundation0G0VG03rawG0AA12MFDeviceListO10deviceTypetKFZ"></a>
+                    <a name="//apple_ref/swift/Method/parseSyncActivityFiles(userProfile:rawData:deviceType:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:10SDKPartner9MSLParserC22parseSyncActivityFilesAA0D4DataVSo15MFSProfileShineC11userProfile_Say10Foundation0G0VG03rawG0AA12MFDeviceListO10deviceTypetKFZ">parseSyncActivityFiles(userProfile:rawData:deviceType:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Parse sync data and maybe throw an error</p>
+<div class="aside aside-throws">
+    <p class="aside-title">Throws</p>
+    Error
+
+</div>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">static</span> <span class="kd">func</span> <span class="nf">parseSyncActivityFiles</span><span class="p">(</span><span class="nv">userProfile</span><span class="p">:</span> <span class="kt">MFSProfileShine</span><span class="p">,</span>
+                                      <span class="nv">rawData</span><span class="p">:</span> <span class="p">[</span><span class="kt">Data</span><span class="p">],</span> <span class="nv">deviceType</span><span class="p">:</span> <span class="kt"><a href="../Enums/MFDeviceList.html">MFDeviceList</a></span><span class="p">)</span> <span class="k">throws</span> <span class="o">-&gt;</span> <span class="kt"><a href="../Structs/SyncData.html">SyncData</a></span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>userProfile</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>profile of a user</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>rawData</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>data of sync</p>
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>deviceType</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>type of the device</p>
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                      <div>
+                        <h4>Return Value</h4>
+                        <p>understandable data</p>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2017 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2017-11-20)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.9.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>
